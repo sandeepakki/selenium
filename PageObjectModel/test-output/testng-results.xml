@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-04T14:24:27 IST" name="Default suite" finished-at="2020-04-04T14:24:48 IST" duration-ms="21292">
+    <groups>
+    </groups>
+    <test started-at="2020-04-04T14:24:27 IST" name="Default test" finished-at="2020-04-04T14:24:48 IST" duration-ms="21292">
+      <class name="DataDriven.createProject">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:DataDriven.createProject@515aebb0]" started-at="2020-04-04T14:24:27 IST" name="OpenBrowser" finished-at="2020-04-04T14:24:38 IST" duration-ms="10795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:DataDriven.createProject@515aebb0]" started-at="2020-04-04T14:24:38 IST" name="Login" finished-at="2020-04-04T14:24:39 IST" duration-ms="1099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="testcreateProject()[pri:0, instance:DataDriven.createProject@515aebb0]" started-at="2020-04-04T14:24:39 IST" name="testcreateProject" finished-at="2020-04-04T14:24:42 IST" duration-ms="3055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateProject -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:DataDriven.createProject@515aebb0]" started-at="2020-04-04T14:24:42 IST" name="Logout" finished-at="2020-04-04T14:24:42 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:DataDriven.createProject@515aebb0]" started-at="2020-04-04T14:24:42 IST" name="CloseBrowser" finished-at="2020-04-04T14:24:48 IST" duration-ms="6059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- DataDriven.createProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

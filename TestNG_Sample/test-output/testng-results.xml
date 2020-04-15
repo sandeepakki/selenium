@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-10T19:50:44 IST" name="Default suite" finished-at="2020-03-10T19:50:44 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2020-03-10T19:50:44 IST" name="Default test" finished-at="2020-03-10T19:50:44 IST" duration-ms="90">
+      <class name="flow_Control.analaysis">
+        <test-method signature="test_analys()[pri:1, instance:flow_Control.analaysis@5c1a8622]" started-at="2020-03-10T19:50:44 IST" name="test_analys" finished-at="2020-03-10T19:50:44 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_analys -->
+        <test-method signature="test_analy()[pri:2, instance:flow_Control.analaysis@5c1a8622]" started-at="2020-03-10T19:50:44 IST" name="test_analy" finished-at="2020-03-10T19:50:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_analy -->
+        <test-method signature="test_analysis()[pri:3, instance:flow_Control.analaysis@5c1a8622]" started-at="2020-03-10T19:50:44 IST" name="test_analysis" finished-at="2020-03-10T19:50:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_analysis -->
+      </class> <!-- flow_Control.analaysis -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

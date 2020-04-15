@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0">
+<testcase classname="creating project in suggester CRM" name="test case for project creation" time="0">
+<system-out><![CDATA[Given user should goto login page...........................................skipped
+When retrieve title of page.................................................skipped
+Then enter "sandeepakkic2@gmail.com" and "San@30041994".....................skipped
+Then click on login button..................................................skipped
+Then retrieve CRM dashboard page............................................skipped
+Then click on project New Project...........................................skipped
+Then enter project details..................................................skipped
+Then click on save project..................................................skipped
+And finally logout from CRM.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="creating project in suggester CRM" name="test case for project creation 2" time="0">
+<system-out><![CDATA[Given user should goto login page...........................................skipped
+When retrieve title of page.................................................skipped
+Then enter "sandeepakki03@gmail.com" and "San@30041994".....................skipped
+Then click on login button..................................................skipped
+Then retrieve CRM dashboard page............................................skipped
+Then click on project New Project...........................................skipped
+Then enter project details..................................................skipped
+Then click on save project..................................................skipped
+And finally logout from CRM.................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
